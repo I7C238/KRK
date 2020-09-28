@@ -1,5 +1,5 @@
-## **A rendszer célja**
+## **A rendszer célja és nem célja**
 
-A tic-tac-toe célja az, hogy az első olyan játékos legyen, aki háromszor egymás után 3 x 3-as rácsot, vagy négy egymás utáni négyes 4-es rácsot kap. 
+Ennek a projektnek az a célja, hogy egy olyan felületet biztosítson két játékos számára akik egymás ellen tudnak játszani 3x3-as vagy 4x4es pályán. Az lesz a győztes aki víszintesen vagy függőlegesen 3 ugyan olyan szimbólumot sikerül kiraknia. Ha sikerül, még a tervünk az, hogy mesterséges inteligenciát használva akár a gép ellen is tudjunk játszani. A játéknak nem célja az, hogy ha gép ellen játszunk mindig veszítsünk, hanem törekszünk egy kiegyensúlyozott játékot létrehozni.
 
 
