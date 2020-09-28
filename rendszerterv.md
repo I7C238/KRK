@@ -17,3 +17,10 @@ Játékosok: Két játékos, akik egymás ellen játszanak
 * 5.Ha mind a kilenc négyzet be van töltve, és egyik játékos sem három egymás után, a játék egy sorsolás.
 * 6.A játékmenet ugyanaz, ha 4 x 4-es rácson játszik. Az "X" játékos megy először. És a játékosok váltakoznak az Xs és Os helyezésével a táblán, amíg egy sor vízszintesen, függőlegesen vagy átlósan nem lesz, vagy mind a 16 négyzet be van töltve. Ha mind a 16 négyzet be van töltve, és egyik játékos sem négy egymás után, a játék egy sorsolás. 
 
+## **Követelmények**
+Funkcionális követelmények:
+
+- Könnyű kezelhetőség
+- Áttekinhető és felhasználó barát felület
+- Optimalizálás különböző böngészőkre
+- Optimalizálás telefonos böngészőkre
